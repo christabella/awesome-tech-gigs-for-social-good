@@ -22,5 +22,8 @@ Applying talent in data science, machine learning, engineering, and other relate
 -   [Machine Learning Center for Impact - Vulcan](https://www.vulcan.com/areas-of-practice/technology-science/key-initiatives/machine-learning-center-for-impact)
 -   [Frontier Development Lab (FDL)](https://fdleurope.org/fdl-europe-2020): AI/ML/data science led researchers.
 -   [Radical Engineers](http://radicalengineers.com/volunteer_positions.html)
--   WRI
--   Red Cross
+-   [Gapminder Foundation](https://www.gapminder.org/about-gapminder/our-mission/): Stockholm-based non-profit that promotes sustainable global development and achievement of the United Nations Millennium Development Goals
+-   [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth): Many partners applying AI to environmental challenges; also provides grants.
+-   [World Resource Institute (WRI)](https://www.wri.org/)
+-   [Red Cross](https://www.redcross.org/about-us/careers.html)
+-   [Institute for Economics & Peace (IEP)](http://economicsandpeace.org/consulting/)
