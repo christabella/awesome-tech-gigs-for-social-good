@@ -11,6 +11,9 @@ Applying talent in data science, machine learning, engineering, and other relate
 -   [IBM Science for Social Good Student Fellowship](https://www.research.ibm.com/science-for-social-good/): Summer fellowships for graduate students and postdoctoral fellowships.
 -   [Data Fellows Programme – The Centre for Humanitarian Data](https://centre.humdata.org/data-fellows/): Fellowship managed by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA). [Mailing list](http://humdata.us14.list-manage1.com/subscribe?u=ea3f905d50ea939780139789d&id=99796325d1) available.
 -   [Delta Analytics Data Fellowship](http://www.deltanalytics.org/): Mostly for applicants living in the San Francisco Bay Area.
+
+# Job boards
+-   [Job board by 80,000 Hours](https://80000hours.org/job-board/): Positions curated by [80,000 Hours](https://80000hours.org/) for having biggest impact on global problems, and for amassing career capital.
 -   [Tech jobs for good](https://www.techjobsforgood.com/): US-based nonprofits, political organizations, startups etc.
 
 
